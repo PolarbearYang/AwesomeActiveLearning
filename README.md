@@ -244,7 +244,7 @@ Multiobjective Experimental Design (ICML 2021)
 - Finding the Homology of Decision Boundaries with Active Learning (NIPS-2020)
 - The Power of Comparisons for Actively Learning Linear Classifiers (NIPS-2020)
 
-## ??
+## Undefined
 
 - Active Learning of Continuous-time Bayesian Networks through Interventions (ICML 2021)
 - Fast active learning for pure exploration in reinforcement learning (ICML 2021)
