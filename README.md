@@ -1,4 +1,4 @@
-# AwesomeActiveLearning
+# Awesome Active Learning
 
 Active learning (AL) is a machine learning paradigm that take both model and data into consideration. In more detail, AL selects the samples that are the most informative to its models, interacts with external information sources to query the labels of these samples, trains its models over all the existing labeled samples, and repeats this cycle in an iterative manner.
 As an easy-to-use framework, the AL strategy has been adopted to several tasks and has demonstrated its power by simplifying data acquisition and reducing annotation cost in various scenarios.
