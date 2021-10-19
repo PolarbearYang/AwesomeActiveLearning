@@ -181,6 +181,10 @@ Realistic Annotation Costs (CVPR-2021)
 
 - Camouflaged Chinese Spam Content Detection with Semi-supervised Generative Active Learning (ACL-2020)
 
+### Dependency Parsing
+
+- Diversity-Aware Batch Active Learning for Dependency Parsing (ACL-2021)
+
 
 
 ## Graph
